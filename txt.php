@@ -10,3 +10,8 @@ echo 'salam';
 // git add txt.php // untracked fayli tracked etmak ucun
 // git add. // butun untracked fayllari tracked etmak ucun
 // git rm --cached txt.php // trackedi untracked etmak ucun
+
+// git commit -m "mesaj" //
+
+// git config --global user.email "you@example.com"
+// git config --global user.name "Your Name"
