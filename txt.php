@@ -15,3 +15,13 @@ echo 'salam';
 
 // git config --global user.email "you@example.com"
 // git config --global user.name "Your Name"
+// git branch 
+// git branch test
+// git branch -D test
+// git checkout readme
+
+
+
+/* gitignore u add etmak lazimdir ki, git bu haqda bilsin
+
+gitignorda folderi qeyd etmak ucun /folder_adi
